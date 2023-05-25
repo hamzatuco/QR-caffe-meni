@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1055858300882",
+    "project_id": "gajinn-ef3d3",
+    "storage_bucket": "gajinn-ef3d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055858300882:android:f76c51396bdffb8e3cda0b",
+        "android_client_info": {
+          "package_name": "com.example.gaj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055858300882-mbqfrbtn99o5qap7kvng11mhaukn2oe7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKaLqVu_S8kVblK2cFoMkrgGPc3hNpidY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055858300882-mbqfrbtn99o5qap7kvng11mhaukn2oe7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
