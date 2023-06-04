@@ -30,7 +30,7 @@ class HomePage extends StatelessWidget {
                 child: Column(
                   children: [
                     Image.asset(
-                      'assets/gajlogo.png',
+                      'assets/logo.png',
                       width: 51,
                       height: 51,
                     ),
@@ -40,7 +40,7 @@ class HomePage extends StatelessWidget {
                       child: FittedBox(
                         fit: BoxFit.scaleDown,
                         child: Text(
-                          'Caffe Bar Gaj INN',
+                          'Ime lokala',
                           textAlign: TextAlign.center,
                           overflow: TextOverflow.ellipsis,
                           style: GoogleFonts.poppins(
@@ -64,7 +64,7 @@ class HomePage extends StatelessWidget {
                     Padding(
                       padding: const EdgeInsets.fromLTRB(25, 15, 25, 0),
                       child: Text(
-                        '"Život počinje nakon prve kafe"',
+                        '"Neki slogan"',
                         textAlign: TextAlign.center,
                         overflow: TextOverflow.ellipsis,
                         style: GoogleFonts.poppins(
